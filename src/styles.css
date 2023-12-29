@@ -1,3 +1,11 @@
+body { 
+  background-color: #f5f5f5;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+
+}
+
 .card {
   width: 18rem;
   background-color: cadetblue;
@@ -21,5 +29,17 @@
 .rps {
   width: 3rem;
   height: 5rem;
+  padding: 3px;
+}
+
+.cal {
+  width: 3rem;
+  height: 4rem;
+  padding: 3px;
+}
+
+.whack {
+  width: 3rem;
+  height: 5.5rem;
   padding: 3px;
 }
