@@ -1,13 +1,24 @@
 .card {
   width: 18rem;
+  background-color: cadetblue;
+  border-radius: 10px;
+  border: 2px solid black;
+  margin: 10px;
+  
 }
 .weather {
   width: 3rem;
-  height: 4rem;
+  height: 3.5rem;
   padding: 3px;
 }
 
 .tetris {
+  width: 3rem;
+  height: 5rem;
+  padding: 3px;
+}
+
+.rps {
   width: 3rem;
   height: 5rem;
   padding: 3px;
